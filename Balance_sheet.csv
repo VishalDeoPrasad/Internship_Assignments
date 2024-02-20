@@ -1,0 +1,38 @@
+,Current assets,"Sep. 30, 2023","Dec. 31, 2022"
+0,Condensed Consolidated Balance Sheets - USD ($) $ in Thousands,"Sep. 30, 2023","Dec. 31, 2022"
+1,Current assets,,
+2,Cash and cash equivalents,"$ 8,260","$ 36,589"
+3,"Restricted cash, current","3,846","3,426"
+4,Inventory,"5,684","2,954"
+5,Prepaids and other current assets,"12,794","9,350"
+6,Derivative asset,"2,205",0
+7,Total current assets,"32,789","52,319"
+8,"Property and equipment, net","368,525","311,400"
+9,"Restricted cash, non-current","10,600","10,600"
+10,Operating lease right-of-use assets,"37,099","39,331"
+11,Deferred warrant asset,"50,175","50,175"
+12,Deferred battery supplier cost,"30,000","30,000"
+13,Other non-current assets,"5,158","2,647"
+14,Total assets,"534,346","496,472"
+15,Current liabilities,,
+16,Accounts payable,"78,045","103,187"
+17,Accrued expenses and other current liabilities,"63,410","63,091"
+18,"Convertible debt, current","37,670","34,829"
+19,Derivative liability,538,0
+20,"Financing liability, current","7,975",0
+21,"Warrant liability, current",0,"17,171"
+22,Total current liabilities,"187,638","218,278"
+23,Contingent earnout shares liability,170,"3,013"
+24,Operating lease liabilities,"36,523","38,608"
+25,"Convertible debt, non-current","44,836",0
+26,"Financing liability, non-current","23,876",0
+27,"Warrant liability, non-current","75,651",0
+28,Total liabilities,"368,694","259,899"
+29,Commitments and contingencies (Note 11),,
+30,Stockholders’ equity,,
+31,"Preferred stock, $0.0001 par value; 10,000 authorized, no shares issued and outstanding at September 30, 2023 and December 31, 2022",0,0
+32,"Common stock, $0.0001 par value; 1,000,000 and 500,000 authorized as of September 30, 2023 and December 31, 2022, respectively; 650,946 and 355,388 issued and outstanding at September 30, 2023 and December 31, 2022, respectively",65,35
+33,Additional paid-in capital,"1,618,986","1,416,361"
+34,Accumulated deficit,"(1,453,399)","(1,179,823)"
+35,Total stockholders’ equity,"165,652","236,573"
+36,Total liabilities and stockholders’ equity,"$ 534,346","$ 496,472"
