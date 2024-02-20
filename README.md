@@ -42,8 +42,6 @@ The provided code snippets demonstrate how to retrieve various types of informat
 
 - **get_dividend_info Function**: This function fetches dividend information for a given company using its ticker symbol. It utilizes the yfinance library to retrieve dividend data and returns a pandas Series containing dividend amounts and dates.
 
-# Web Scraping and NLP with Python
-
 ## Libraries Used:
 
 - **numpy** and **pandas**: For data manipulation and analysis.
@@ -70,7 +68,3 @@ Your script likely performs tasks such as:
 5. If you encounter performance issues or need to scale up your scraping tasks, consider optimizing your code or using asynchronous processing techniques.
 6. Stay updated with changes to the libraries and APIs you're using, as well as any legal or ethical considerations related to web scraping and NLP tasks.
 
-
-- **get_options_chain Function**: This function retrieves options chain data for a given company and expiration date. It utilizes the yfinance library to fetch options data and returns a dictionary containing information about call and put options for the specified expiration date.
-
-These functions demonstrate how to use web scraping techniques and the yfinance library to gather various types of financial information about a company from sources like Yahoo Finance.
