@@ -42,6 +42,35 @@ The provided code snippets demonstrate how to retrieve various types of informat
 
 - **get_dividend_info Function**: This function fetches dividend information for a given company using its ticker symbol. It utilizes the yfinance library to retrieve dividend data and returns a pandas Series containing dividend amounts and dates.
 
+# Web Scraping and NLP with Python
+
+## Libraries Used:
+
+- **numpy** and **pandas**: For data manipulation and analysis.
+- **requests**: For sending HTTP requests and retrieving HTML content.
+- **BeautifulSoup (bs4)**: For parsing HTML content and extracting data from web pages.
+- **re**: For regular expressions, which can be useful for text processing.
+- **duckduckgo_search**: For performing web searches using the DuckDuckGo search engine.
+- **spacy_universal_sentence_encoder**: For integrating the Universal Sentence Encoder into spaCy for text embedding and NLP tasks.
+
+## Functionality:
+
+Your script likely performs tasks such as:
+- Scraping data from websites using requests and BeautifulSoup.
+- Extracting specific information from web pages using BeautifulSoup and regular expressions.
+- Conducting web searches using DuckDuckGo search.
+- Utilizing the Universal Sentence Encoder for text embedding and NLP tasks.
+
+## Recommendations:
+
+1. Ensure you have the necessary permissions before scraping data from websites, and abide by the website's terms of service.
+2. Consider handling errors and exceptions more robustly in your code to ensure it gracefully handles unexpected situations.
+3. Document your code effectively, including function descriptions, parameters, return values, and any assumptions made.
+4. Test your code thoroughly with different scenarios and edge cases to ensure its reliability and accuracy.
+5. If you encounter performance issues or need to scale up your scraping tasks, consider optimizing your code or using asynchronous processing techniques.
+6. Stay updated with changes to the libraries and APIs you're using, as well as any legal or ethical considerations related to web scraping and NLP tasks.
+
+
 - **get_options_chain Function**: This function retrieves options chain data for a given company and expiration date. It utilizes the yfinance library to fetch options data and returns a dictionary containing information about call and put options for the specified expiration date.
 
 These functions demonstrate how to use web scraping techniques and the yfinance library to gather various types of financial information about a company from sources like Yahoo Finance.
